@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @JONATHANTSIFERANA
-- 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning Coding
-- 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me Github.com
+- 👋 Salama, izaho @JONATHANTSIFERANA
+- 👀 Liana amin'ny JavaScript aho
+- 🌱 Mianatra Coding aho izao
+- 💞️ Mikasa ny hiara-miasa amin'ny Github aho
+- 📫 Ahoana no hahatongavana amiko Github.com
+- 🎮 Compte Free Fire 乡ㅤｍｅｒｕｅｍ
 
 <!---
-JONATHANTSIFERANA/JONATHANTSIFERANA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+JONATHANTSIFERANA/JONATHANTSIFERANA dia ✨ manokana ✨ fitehirizana satria ny `Jonathan.md` (ity rakitra ity) dia miseho ao amin'ny mombamomba anao GitHub.
+Azonao atao ny manindry ny rohy Preview mba hijerena ny fanovana nataonao.
 --->
